@@ -36,10 +36,10 @@ HCC1806_DropS.ipynb   # HCC1806 analysis (DropSeq)
 
 You can **view the notebooks directly in your browser** via nbviewer:
 
-- [MCF7_SmartS.ipynb](https://nbviewer.org/github/cesarebergossi/bioinformatics-hypoxia-prediction/blob/main/MCF7_SmartS.ipynb)
-- [MCF7_DropS.ipynb](https://nbviewer.org/github/cesarebergossi/bioinformatics-hypoxia-prediction/blob/main/MCF7_DropS.ipynb)
-- [HCC1806_SmartS.ipynb](https://nbviewer.org/github/cesarebergossi/bioinformatics-hypoxia-prediction/blob/main/HCC1806_SmartS.ipynb)
-- [HCC1806_DropS.ipynb](https://nbviewer.org/github/cesarebergossi/bioinformatics-hypoxia-prediction/blob/main/HCC1806_DropS.ipynb)
+- [MCF7_SmartS.ipynb](https://nbviewer.org/github/cesarebergossi/hypoxia-prediction-bioinformatics/blob/main/MCF7_SmartS.ipynb)
+- [MCF7_DropS.ipynb](https://nbviewer.org/github/cesarebergossi/hypoxia-prediction-bioinformatics/blob/main/MCF7_DropS.ipynb)
+- [HCC1806_SmartS.ipynb](https://nbviewer.org/github/cesarebergossi/hypoxia-prediction-bioinformatics/blob/main/HCC1806_SmartS.ipynb)
+- [HCC1806_DropS.ipynb](https://nbviewer.org/github/cesarebergossi/hypoxia-prediction-bioinformatics/blob/main/HCC1806_DropS.ipynb)
 
 ## Methodology
 
